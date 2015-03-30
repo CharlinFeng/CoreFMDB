@@ -14,13 +14,15 @@
 HMSingletonH(CoreFMDB)
 
 
+
 /**
  *  执行一个更新语句
  *
- *  @param sql              更新语句的sql
- *  @param updateResBlock   更新语句的执行结果
+ *  @param sql 更新语句的sql
+ *
+ *  @return 更新语句的执行结果
  */
-+(void)executeUpdate:(NSString *)sql updateResBlock:(void(^)(BOOL updateRes))updateResBlock;
++(BOOL)executeUpdate:(NSString *)sql;
 
 
 
@@ -36,13 +38,15 @@ HMSingletonH(CoreFMDB)
 
 
 
+
 /**
  *  查询出指定表的列
  *
- *  @param table           指定表
- *  @param columnsResBlock 查询出指定表的列的执行结果
+ *  @param table table
+ *
+ *  @return 查询出指定表的列的执行结果
  */
-+(void)executeQueryForColumns:(NSString *)table columnsResBlock:(void(^)(NSArray *columns))columnsResBlock;
++(NSArray *)executeQueryColumnsInTable:(NSString *)table;
 
 
 @end

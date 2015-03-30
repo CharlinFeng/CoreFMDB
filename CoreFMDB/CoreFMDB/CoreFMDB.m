@@ -69,25 +69,22 @@ HMSingletonM(CoreFMDB)
  *  执行一个更新语句
  *
  *  @param sql 更新语句的sql
- *  @param res 更新语句的执行结果
+ *
+ *  @return 更新语句的执行结果
  */
-+(void)executeUpdate:(NSString *)sql updateResBlock:(void(^)(BOOL updateRes))updateResBlock{
++(BOOL)executeUpdate:(NSString *)sql{
+
+    __block BOOL updateRes = NO;
     
-    //子线程处理
-    dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
+    CoreFMDB *coreFMDB=[CoreFMDB sharedCoreFMDB];
+    
+    [coreFMDB.queue inDatabase:^(FMDatabase *db) {
         
-        CoreFMDB *coreFMDB=[CoreFMDB sharedCoreFMDB];
-
-        [coreFMDB.queue inDatabase:^(FMDatabase *db) {
-           
-            BOOL updateRes = [db executeUpdate:sql];
-        
-            if(updateResBlock!=nil) updateResBlock(updateRes);
-        }];
-    });
+        updateRes = [db executeUpdate:sql];
+    }];
+    
+    return updateRes;
 }
-
-
 
 
 
@@ -100,22 +97,16 @@ HMSingletonM(CoreFMDB)
  *  @param queryResBlock    查询语句的执行结果
  */
 +(void)executeQuery:(NSString *)sql queryResBlock:(void(^)(FMResultSet *set))queryResBlock{
+        
+    CoreFMDB *coreFMDB=[CoreFMDB sharedCoreFMDB];
     
-    //子线程处理
-    dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
+    [coreFMDB.queue inDatabase:^(FMDatabase *db) {
         
-        CoreFMDB *coreFMDB=[CoreFMDB sharedCoreFMDB];
+        FMResultSet *set = [db executeQuery:sql];
         
-        [coreFMDB.queue inDatabase:^(FMDatabase *db) {
-            
-            FMResultSet *set = [db executeQuery:sql];
-            
-            if(queryResBlock != nil) queryResBlock(set);
-        }];
-    });
- 
+        if(queryResBlock != nil) queryResBlock(set);
+    }];
 }
-
 
 
 
@@ -123,17 +114,18 @@ HMSingletonM(CoreFMDB)
 /**
  *  查询出指定表的列
  *
- *  @param table           指定表
- *  @param columnsResBlock 查询出指定表的列的执行结果
+ *  @param table table
+ *
+ *  @return 查询出指定表的列的执行结果
  */
-+(void)executeQueryForColumns:(NSString *)table columnsResBlock:(void(^)(NSArray *columns))columnsResBlock{
++(NSArray *)executeQueryColumnsInTable:(NSString *)table{
+
+    NSMutableArray *columnsM=[NSMutableArray array];
     
     NSString *sql=[NSString stringWithFormat:@"PRAGMA table_info (%@);",table];
     
     [self executeQuery:sql queryResBlock:^(FMResultSet *set) {
-        
-        NSMutableArray *columnsM=[NSMutableArray array];
-        
+
         //循环取出数据
         while ([set next]) {
             NSString *column = [set stringForColumn:@"name"];
@@ -141,11 +133,9 @@ HMSingletonM(CoreFMDB)
         }
         
         if(columnsM.count==0) NSLog(@"code=2：您指定的表：%@,没有字段信息，可能是表尚未创建！",table);
-        
-        if(columnsResBlock != nil) columnsResBlock([columnsM copy]);
     }];
+
+    return [columnsM copy];
 }
-
-
 
 @end
