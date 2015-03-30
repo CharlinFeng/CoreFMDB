@@ -51,6 +51,13 @@
         }
         
     }];
+    
+    
+    
+    //计算记录数
+    NSUInteger count = [CoreFMDB countTable:@"user"];
+    
+    NSLog(@"当前有%@条记录",@(count));
 }
 
 @end

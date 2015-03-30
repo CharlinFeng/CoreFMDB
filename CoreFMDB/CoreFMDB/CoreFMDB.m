@@ -138,4 +138,31 @@ HMSingletonM(CoreFMDB)
     return [columnsM copy];
 }
 
+
+/**
+ *  表记录数计算
+ *
+ *  @param table 表
+ *
+ *  @return 记录数
+ */
++(NSUInteger)countTable:(NSString *)table{
+    
+    NSString *alias=@"count";
+    
+    NSString *sql=[NSString stringWithFormat:@"SELECT COUNT(*) AS %@ FROM %@;",alias,table];
+
+    __block NSUInteger count=0;
+    
+    [self executeQuery:sql queryResBlock:^(FMResultSet *set) {
+        
+        while ([set next]) {
+            
+            count = [[set stringForColumn:alias] integerValue];
+        }
+    }];
+    
+    return count;
+}
+
 @end

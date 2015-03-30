@@ -49,4 +49,16 @@ HMSingletonH(CoreFMDB)
 +(NSArray *)executeQueryColumnsInTable:(NSString *)table;
 
 
+
+
+/**
+ *  表记录数计算
+ *
+ *  @param table 表
+ *
+ *  @return 记录数
+ */
++(NSUInteger)countTable:(NSString *)table;
+
+
 @end
