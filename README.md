@@ -13,17 +13,17 @@
 
 致谢 THANKS
 ===============
-1.感谢MJ
-感谢杰哥！致敬MJExtension！希望大家支持杰哥的事业！
+1.感谢MJ <br />
+感谢杰哥！致敬MJExtension！希望大家支持杰哥的事业！<br />
 小码哥IT教育：http://www.520it.com
 ![image](./CoreFMDB/3.png)<br />
 
-2.感谢 小饭 
+2.感谢小饭 <br />
 感谢小饭提供的英文翻译帮助，谢谢！
 <br />
 ![image](./CoreFMDB/4.png)<br />
 
-<br /><br />
+<br /><br /><br />
 
 
 
@@ -53,7 +53,7 @@
 因为我个人觉得，如果是功能模块，我会尽量独立出来，站在解耦的核心思想中，我受益太多。希望您能理解。谢谢！
    
 此框架是取代Core Data系列框架的第一个框架，是向MJ的MJExtension的续作以及致敬！
-主要是完成MJExtension的后续工作：任意模型的动态缓存。
+主要是完成MJExtension的后续工作：任意模型的一键级联动态缓存。
 
 <br />
 
