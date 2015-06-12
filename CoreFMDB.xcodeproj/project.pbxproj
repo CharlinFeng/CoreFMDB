@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8913D9981B2A707200C3B69A /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8913D9971B2A707200C3B69A /* 1.png */; };
 		EE5ABD681AC52C0F00D05234 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EE5ABD671AC52C0F00D05234 /* main.m */; };
 		EE5ABD6B1AC52C0F00D05234 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EE5ABD6A1AC52C0F00D05234 /* AppDelegate.m */; };
 		EE5ABD6E1AC52C0F00D05234 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EE5ABD6D1AC52C0F00D05234 /* ViewController.m */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8913D9971B2A707200C3B69A /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 		EE5ABD621AC52C0F00D05234 /* CoreFMDB.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreFMDB.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE5ABD661AC52C0F00D05234 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EE5ABD671AC52C0F00D05234 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 		EE5ABD651AC52C0F00D05234 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8913D9971B2A707200C3B69A /* 1.png */,
 				EE5ABDA11AC52E2600D05234 /* libsqlite3.dylib */,
 				EE5ABD661AC52C0F00D05234 /* Info.plist */,
 				EE5ABD671AC52C0F00D05234 /* main.m */,
@@ -283,6 +286,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EE5ABD711AC52C0F00D05234 /* Main.storyboard in Resources */,
+				8913D9981B2A707200C3B69A /* 1.png in Resources */,
 				EE5ABD761AC52C0F00D05234 /* LaunchScreen.xib in Resources */,
 				EE5ABD731AC52C0F00D05234 /* Images.xcassets in Resources */,
 			);
@@ -433,7 +437,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = CoreFMDB/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -443,7 +449,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = CoreFMDB/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -502,6 +510,7 @@
 				EE5ABD871AC52C0F00D05234 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EE5ABD881AC52C0F00D05234 /* Build configuration list for PBXNativeTarget "CoreFMDBTests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +519,7 @@
 				EE5ABD8A1AC52C0F00D05234 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
