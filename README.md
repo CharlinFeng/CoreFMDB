@@ -11,6 +11,21 @@
 
 
 
+致谢 THANKS
+===============
+1.感谢MJ
+感谢杰哥！致敬MJExtension！希望大家支持杰哥的事业！
+小码哥IT教育：http://www.520it.com
+![image](./CoreFMDB/3.png)<br />
+
+2.感谢 小饭 
+感谢小饭提供的英文翻译帮助，谢谢！
+![image](./CoreFMDB/4.png)<br />
+
+<br /><br />
+
+
+
 框架截图 IMAGES
 ===============
 ![image](./CoreFMDB/1.png)<br />
@@ -43,13 +58,6 @@
 
 
 
-致敬李明杰（MJ ）MASTER
-===============
-感谢杰哥！希望大家支持杰哥的事业！
-小码哥IT教育：http://www.520it.com
-
-![image](./CoreFMDB/3.png)<br />
-<br /><br />
 
 
 
