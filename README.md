@@ -14,14 +14,16 @@
 致谢 THANKS
 ===============
 #####1.感谢MJ 
+![image](./CoreFMDB/3.png)<br />
 感谢杰哥！致敬MJExtension！希望大家支持杰哥的事业！<br />
 小码哥IT教育：http://www.520it.com
-![image](./CoreFMDB/3.png)<br />
- <br />
+
+ <br /> <br />
 #####2.感谢小饭 
- 感谢小饭提供的英文翻译帮助，谢谢！
-<br />
 ![image](./CoreFMDB/4.png)<br />
+ 感谢小饭提供的英文翻译帮助，谢谢！
+<br /> <br />
+
 
 <br /><br /><br />
 
