@@ -1,9 +1,14 @@
 
     Charlin出框架的目标：简单、易用、实用、高度封装、绝对解耦！
 
+![image](./CoreFMDB/https://camo.githubusercontent.com/7fb40e923eeafbf4a699b9c8a54f53d88f2a70b9/687474703a2f2f696d616765732e636e6974626c6f672e636f6d2f626c6f67323031352f3439373237392f3230313530352f3035313030343331363733363634312e706e67)<br />
+
+
+
 # CoreFMDB
    MJExtension续作之一：取代Core Data的利器，实现ios一键ORM的基石！
 <br /><br />
+
 
 
 框架截图 IMAGES
