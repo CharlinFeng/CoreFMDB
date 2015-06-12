@@ -6,12 +6,9 @@
 <br /><br />
 
 
-友情提示 MENTION
+框架截图 IMAGES
 ===============
-Charlin（成都-冯成林）更多原创项目（涵盖了方方面面，看看还有没有你需要的）：<br />
-首页：https://github.com/nsdictionary<br />
-列表：https://github.com/nsdictionary?tab=repositories<br />
-成都iOS开发群：163865401（Charlin创建与维护，欢迎加群交流！）<br />
+![image](./CoreFMDB/1.png)<br />
 <br /><br />
 
 
@@ -34,10 +31,7 @@ Charlin（成都-冯成林）更多原创项目（涵盖了方方面面，看看
 
 
 
-框架截图 IMAGES
-===============
-![image](./CoreFMDB/1.png)<br />
-<br /><br />
+
 
 
 
@@ -163,4 +157,11 @@ Charlin（成都-冯成林）更多原创项目（涵盖了方方面面，看看
 ===============
 作者简介：Charlin(冯成林)-成都iOS工程师！<br /><br />
 
+友情提示 MENTION
+===============
+Charlin（成都-冯成林）更多原创项目（涵盖了方方面面，看看还有没有你需要的）：<br />
+首页：https://github.com/nsdictionary<br />
+列表：https://github.com/nsdictionary?tab=repositories<br />
+成都iOS开发群：163865401（Charlin创建与维护，欢迎加群交流！）<br />
+<br /><br />
 
