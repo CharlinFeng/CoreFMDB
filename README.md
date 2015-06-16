@@ -116,10 +116,11 @@ any model’s one key Cascade Dynamic Cache.
 使用说明 USAGE
 ===============
 
-本框架基于FMDB，静态封装，全类方法调用，同时是线程安全的。而且您无需创建数据库对象实例并记录，绿色、简单、好用。<br/><br/>
+本框架基于FMDB，静态封装，全类方法调用，同时是线程安全的。而且您无需创建数据库对象实例并记录，绿色、简单、好用。<br/>
 EN：This frame is based on FMDB and it’s static package,  all classes method call, thread-safe at the same time. 
 You don’t need to create datebase object, instance or record. It’s a green, simple and good frame.
-<br/><br/>
+<br/><br/><br />
+
 #### 1. 引入头文件 Introduced header
       #import "CoreFMDB.h"
 <br/>
