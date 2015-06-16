@@ -78,7 +78,6 @@ an attitude and sharing even a challenge to the traditional way. There is no fla
 pretentious or money but all my spirits which need your support.
 <br/><br/><br />
 此系列框架的核心目标是：取代Core Data，实现一键动态缓存！
-
 这是第一个框架，后面还是3个，你要问我为什么写这么散？还有一些朋友批判我，很多项目结构非常“混乱”，
 其实，这是因为我有一个宏大的框架在我的所有Frameworks中，最核心的目的是解耦，
 因为我个人觉得，如果是功能模块，我会尽量独立出来，站在解耦的核心思想中，我受益太多。希望您能理解。谢谢！
