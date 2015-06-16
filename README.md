@@ -78,7 +78,7 @@
 <br/><br/>
 我是成都开发者，冯成林，开源是一种精神，一种分享，一种态度，或者是一种对传统模式的挑战，
 这里没有炫耀，没有装逼，没有金钱，我付出的是一种精神，需要的是您的支持！
-===============
+-------
 I am Charlin Feng, a developer from Chengdu, China. The true spirit of open source is 
 an attitude and sharing even a challenge to the traditional way. There is no flaunt, 
 pretentious or money but all my spirits which need your support.
