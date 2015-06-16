@@ -65,7 +65,7 @@
         The second part  automatically CURD release date: 21/06/2015, so stay tuned or 
         join our qq group(163865401) to get the latest news, thanks a lot.
         
-
+<br/><br/>
 我是成都开发者，冯成林，开源是一种精神，一种分享，一种态度，或者是一种对传统模式的挑战，
 这里没有炫耀，没有装逼，没有金钱，我付出的是一种精神，需要的是您的支持！<br/>
 I am Charlin Feng, a developer from Chengdu, China. The true spirit of open source is 
