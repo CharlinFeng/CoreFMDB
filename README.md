@@ -58,7 +58,6 @@
         automatically create table, one key CURD, automatically check model and 
         dynamically add field, model cascade CURD. All these things are automatic without          
         one sql code.
-        <br/>
         
         
         
@@ -77,8 +76,7 @@
         
 <br/><br/>
 我是成都开发者，冯成林，开源是一种精神，一种分享，一种态度，或者是一种对传统模式的挑战，
-这里没有炫耀，没有装逼，没有金钱，我付出的是一种精神，需要的是您的支持！
--------
+这里没有炫耀，没有装逼，没有金钱，我付出的是一种精神，需要的是您的支持！<br/>
 I am Charlin Feng, a developer from Chengdu, China. The true spirit of open source is 
 an attitude and sharing even a challenge to the traditional way. There is no flaunt, 
 pretentious or money but all my spirits which need your support.
@@ -88,7 +86,7 @@ pretentious or money but all my spirits which need your support.
 这是第一个框架，后面还是3个，你要问我为什么写这么散？还有一些朋友批判我，很多项目结构非常“混乱”，
 其实，这是因为我有一个宏大的框架在我的所有Frameworks中，最核心的目的是解耦，
 因为我个人觉得，如果是功能模块，我会尽量独立出来，站在解耦的核心思想中，我受益太多。希望您能理解。谢谢！
-===============
+<br/>
 The core purpose of these series frames is replace to Core Data and implement one key Dynamic Cache. 
 This is the first frame with other three followed.  You are gonna ask me why make these frame so separately.
 Even some of my friends blame me at the “chaos” of my projects’ structure. Actually, 
@@ -101,7 +99,7 @@ I feel I benefit from the core idea of decoupling. I hope you guys could underst
    
 此框架是取代Core Data系列框架的第一个框架，是向MJ的MJExtension的续作以及致敬！
 主要是完成MJExtension的后续工作：任意模型的一键级联动态缓存。
-===============
+<br/>
 This frame is the first one of the series frame which replace to Core Data. It’s also the sequel of
 MJ’s MJExtension and to MJ to pay tribute. This frame mostly finished the follow-up work of MJExtension:
 any model’s one key Cascade Dynamic Cache.
