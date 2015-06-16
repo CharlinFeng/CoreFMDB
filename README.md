@@ -53,7 +53,7 @@
 
         不会写sql？别急！！！马上第二期为您解决一键全自动创表、一键CURD、
         全自动检查模型动态添加字段、模型级联CURD，这一切都是全自动的，您不需要写一句Sql！
-        Doesn’t know how to write sql? No worries. Now the second part offers you one key 
+        EN：Doesn’t know how to write sql? No worries. Now the second part offers you one key 
         automatically create table, one key CURD, automatically check model and 
         dynamically add field, model cascade CURD. All these things are automatic without          
         one sql code.
@@ -61,19 +61,19 @@
         
         
         由于本人时间有限，并且此系列框架使用简单，但有一套完整的理论，文档较多，开源周期较长。
-        Due to my time constraints and ease of use these frames,
+        EN：Due to my time constraints and ease of use these frames,
         the release cycle will be long.
         
         
         
         第二期全自动CURD开源时间：2015年6月21日，请关注或加群（163865401）获取最新情报，谢谢
-        The second part  automatically CURD release date: 21/06/2015, so stay tuned or 
+        EN：The second part  automatically CURD release date: 21/06/2015, so stay tuned or 
         join our qq group(163865401) to get the latest news, thanks a lot.
         
 <br/><br/>
 我是成都开发者，冯成林，开源是一种精神，一种分享，一种态度，或者是一种对传统模式的挑战，
 这里没有炫耀，没有装逼，没有金钱，我付出的是一种精神，需要的是您的支持！<br/>
-I am Charlin Feng, a developer from Chengdu, China. The true spirit of open source is 
+EN：I am Charlin Feng, a developer from Chengdu, China. The true spirit of open source is 
 an attitude and sharing even a challenge to the traditional way. There is no flaunt, 
 pretentious or money but all my spirits which need your support.
 <br/><br/>
@@ -83,20 +83,17 @@ pretentious or money but all my spirits which need your support.
 其实，这是因为我有一个宏大的框架在我的所有Frameworks中，最核心的目的是解耦，
 因为我个人觉得，如果是功能模块，我会尽量独立出来，站在解耦的核心思想中，我受益太多。希望您能理解。谢谢！
 <br/>
-The core purpose of these series frames is replace to Core Data and implement one key Dynamic Cache. 
+EN：The core purpose of these series frames is replace to Core Data and implement one key Dynamic Cache. 
 This is the first frame with other three followed.  You are gonna ask me why make these frame so separately.
 Even some of my friends blame me at the “chaos” of my projects’ structure. Actually, 
 it’s due to I got a magnificent frame in all my frameworks with a core purpose which is decoupling.
 Because I believe that I will try my best to separate it if it’s a function module. 
 I feel I benefit from the core idea of decoupling. I hope you guys could understand. Thank you very much.
-
 <br/><br/>
-   
-   
 此框架是取代Core Data系列框架的第一个框架，是向MJ的MJExtension的续作以及致敬！
 主要是完成MJExtension的后续工作：任意模型的一键级联动态缓存。
 <br/>
-This frame is the first one of the series frame which replace to Core Data. It’s also the sequel of
+EN：This frame is the first one of the series frame which replace to Core Data. It’s also the sequel of
 MJ’s MJExtension and to MJ to pay tribute. This frame mostly finished the follow-up work of MJExtension:
 any model’s one key Cascade Dynamic Cache.
 
@@ -121,7 +118,7 @@ any model’s one key Cascade Dynamic Cache.
 ===============
 
 本框架基于FMDB，静态封装，全类方法调用，同时是线程安全的。而且您无需创建数据库对象实例并记录，绿色、简单、好用。<br/><br/>
-This frame is based on FMDB and it’s static package,  all classes method call, thread-safe at the same time. 
+EN：This frame is based on FMDB and it’s static package,  all classes method call, thread-safe at the same time. 
 You don’t need to create datebase object, instance or record. It’s a green, simple and good frame.
 <br/><br/>
 #### 1. 引入头文件 Introduced header
