@@ -18,14 +18,14 @@
 
 致谢 THANKS
 ===============
-#####1.感谢MJ  Thanks MJ!
+#####1.感谢MJ    Thanks MJ!
 ![image](./CoreFMDB/3.png)<br />
 感谢杰哥！致敬MJExtension！希望大家支持杰哥的事业！ <br />
 
 小码哥IT教育：http://www.520it.com
 
  <br /> <br />
-#####2.感谢小饭 Thanks XiaoFan!
+#####2.感谢小饭   Thanks XiaoFan!
 
 ![image](./CoreFMDB/4.png)<br />
  感谢小饭提供的英文翻译帮助，谢谢！
@@ -230,7 +230,9 @@ You don’t need to create datebase object, instance or record. It’s a green, 
 
 关于Chariln INTRODUCE
 ===============
-作者简介：Charlin Feng(冯成林)-成都iOS工程师！<br /><br />
+作者简介：Charlin Feng(冯成林)-成都iOS工程师！<br />
+Introduce: I am Charlin Feng, a developer from Chengdu, China. 
+<br />
 
 友情提示 MENTION
 ===============
