@@ -2,13 +2,15 @@
 
 
     Charlin出框架的目标：简单、易用、实用、高度封装、绝对解耦！
-    The purpose of Charlin’s frame: simple, ease of use, practical, highly packaged and absolute decoupling.
+    The purpose of Charlin’s frame: simple, ease of use, practical, 
+    highly packaged and absolute decoupling.
 
 
 
 # CoreFMDB
    MJExtension续作之一：取代Core Data的利器，实现ios一键ORM的基石！
-   One sequel for MJExtetnsion: a better tool to replace Core Data  and a cornerstone of achieving one key ORM for iOS.
+   One sequel for MJExtetnsion: a better tool to replace Core Data  
+   and a cornerstone of achieving one key ORM for iOS.
 <br /><br /><br />
 
 
@@ -49,6 +51,7 @@
 
         不会写sql？别急！！！马上第二期为您解决一键全自动创表、一键CURD、
         全自动检查模型动态添加字段、模型级联CURD，这一切都是全自动的，您不需要写一句Sql！
+        
         Doesn’t know how to write sql? No worries. Now the second part offers you one key 
         automatically create table, one key          CURD, automatically check model and 
         dynamically add field, model cascade CURD. All these things are automatic without          
@@ -56,9 +59,11 @@
         
         
         由于本人时间有限，并且此系列框架使用简单，但有一套完整的理论，文档较多，开源周期较长。
+        
         Due to my time constraints and ease of use these frames, the release cycle will be long.
         
         第二期全自动CURD开源时间：2015年6月21日，请关注或加群（163865401）获取最新情报，谢谢
+        
         The second part  automatically CURD release date: 21/06/2015, so stay tuned or 
         join our qq group(163865401) to get the latest news, thanks a lot.
         
