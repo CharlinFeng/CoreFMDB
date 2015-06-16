@@ -76,7 +76,7 @@
 EN：I am Charlin Feng, a developer from Chengdu, China. The true spirit of open source is 
 an attitude and sharing even a challenge to the traditional way. There is no flaunt, 
 pretentious or money but all my spirits which need your support.
-<br/><br/>
+<br/><br/><br />
 此系列框架的核心目标是：取代Core Data，实现一键动态缓存！
 
 这是第一个框架，后面还是3个，你要问我为什么写这么散？还有一些朋友批判我，很多项目结构非常“混乱”，
@@ -89,7 +89,7 @@ Even some of my friends blame me at the “chaos” of my projects’ structure.
 it’s due to I got a magnificent frame in all my frameworks with a core purpose which is decoupling.
 Because I believe that I will try my best to separate it if it’s a function module. 
 I feel I benefit from the core idea of decoupling. I hope you guys could understand. Thank you very much.
-<br/><br/>
+<br/><br/><br />
 此框架是取代Core Data系列框架的第一个框架，是向MJ的MJExtension的续作以及致敬！
 主要是完成MJExtension的后续工作：任意模型的一键级联动态缓存。
 <br/>
