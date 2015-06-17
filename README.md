@@ -44,7 +44,7 @@
 
 框架截图 IMAGES
 ===============
-![image](./CoreFMDB/1.png)<br />
+![image](./CoreFMDB/new.png)<br />
 <br /><br />
 
 
@@ -240,6 +240,6 @@ Introduce: I am Charlin Feng, a developer from Chengdu, China.
 Charlin（成都-冯成林）更多原创项目（涵盖了方方面面，看看还有没有你需要的）：<br />
 首页：https://github.com/nsdictionary<br />
 列表：https://github.com/nsdictionary?tab=repositories<br />
-成都iOS开发群：163865401（Charlin创建与维护，欢迎加群交流！）<br />
+成都iOS开发群：一群：163865401（已爆满）  二群：369870753（新开，新鲜着呢，快加）<br />
 <br /><br />
 
