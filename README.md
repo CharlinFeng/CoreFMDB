@@ -32,12 +32,6 @@ CoreArchive是系列第一季，共有5季，连载中，允加群关注最新�
 
 
 
-框架截图 CUT
-===============
-![image](./CoreArchive/show.gif)<br />
-
-
-
 框架说明 EXPLAIN
 ===============
      Charlin Feng原创MJExtension续作的目的：一来是向MJExtension致敬，
