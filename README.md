@@ -17,23 +17,36 @@
 
 
 
-致谢 THANKS
+CoreModel系列： 请看！！！
 ===============
-#####1.感谢MJ    Thanks MJ!
-![image](./CoreFMDB/3.png)<br />
-感谢杰哥！致敬MJExtension！希望大家支持杰哥的事业！ <br />
 
-小码哥IT教育：http://www.520it.com
-
- <br /> <br />
-#####2.感谢小饭   Thanks XiaoFan!
-
-![image](./CoreFMDB/4.png)<br />
- 感谢小饭提供的英文翻译帮助，谢谢！
-<br /> <br />
+第二季：CoreArchive
+https://github.com/nsdictionary/CoreArchive
 
 
-<br /><br /><br />
+本框架是隶属于MJExtension续作，我给这个项目取了一个整体上的名字叫做：CoreModel。
+CoreArchive是系列第一季，共有5季，连载中，允加群关注最新动态
+成都iOS开发群：<br />
+二群：369870753（新开，新鲜着呢，快加） <br />
+一群：163865401（已爆满，加不上了）  <br /><br />
+
+
+
+框架截图 CUT
+===============
+![image](./CoreArchive/show.gif)<br />
+
+
+
+框架说明 EXPLAIN
+===============
+     Charlin Feng原创MJExtension续作的目的：一来是向MJExtension致敬，
+     二是封装大量ios开发者均迫切需要的功能，就是对数据的本地CURD。基于这个原因，
+     所以CoreArchive也成为了CoreModel的成员。当然CoreArchive也因为解耦的原因而独立存在。
+
+
+
+
 
 
         正式开始！ Let's Go!
@@ -228,6 +241,24 @@ You don’t need to create datebase object, instance or record. It’s a green, 
 <br /><br />
 
 
+
+致谢 THANKS
+===============
+#####1.感谢MJ    Thanks MJ!
+![image](./CoreFMDB/3.png)<br />
+感谢杰哥！致敬MJExtension！希望大家支持杰哥的事业！ <br />
+
+小码哥IT教育：http://www.520it.com
+
+ <br /> <br />
+#####2.感谢小饭   Thanks XiaoFan!
+
+![image](./CoreFMDB/4.png)<br />
+ 感谢小饭提供的英文翻译帮助，谢谢！
+<br /> <br />
+
+
+<br /><br /><br />
 
 关于Chariln INTRODUCE
 ===============
