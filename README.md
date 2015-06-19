@@ -24,7 +24,7 @@ CoreModel系列： 请看！！！
 https://github.com/nsdictionary/CoreArchive
 
 
-本框架是隶属于MJExtension续作，我给这个项目取了一个整体上的名字叫做：CoreModel。
+本框架是隶属于MJExtension续作，我给这系列框架取了一个整体上的名字叫做：CoreModel。
 CoreArchive是系列第一季，共有5季，连载中，允加群关注最新动态
 成都iOS开发群：<br />
 二群：369870753（新开，新鲜着呢，快加） <br />
@@ -37,10 +37,6 @@ CoreArchive是系列第一季，共有5季，连载中，允加群关注最新�
      Charlin Feng原创MJExtension续作的目的：一来是向MJExtension致敬，
      二是封装大量ios开发者均迫切需要的功能，就是对数据的本地CURD。基于这个原因，
      所以CoreArchive也成为了CoreModel的成员。当然CoreArchive也因为解耦的原因而独立存在。
-
-
-
-
 
 
         正式开始！ Let's Go!
