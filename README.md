@@ -1,10 +1,11 @@
 ![image](./CoreFMDB/2.png)<br />
 
-
+-----
     Charlin出框架的目标：简单、易用、实用、高度封装、绝对解耦！
     
     The purpose of Charlin’s frame: simple, ease of use, practical, 
     highly packaged and absolute decoupling.
+-----
 
 
 
@@ -248,19 +249,4 @@ You don’t need to create datebase object, instance or record. It’s a green, 
 <br /> <br />
 
 
-<br /><br /><br />
-
-关于Chariln INTRODUCE
-===============
-作者简介：Charlin Feng(冯成林)-成都iOS工程师！<br />
-Introduce: I am Charlin Feng, a developer from Chengdu, China. 
-<br />
-
-友情提示 MENTION
-===============
-Charlin（成都-冯成林）更多原创项目（涵盖了方方面面，看看还有没有你需要的）：<br />
-首页：https://github.com/nsdictionary<br />
-列表：https://github.com/nsdictionary?tab=repositories<br />
-成都iOS开发群：二群：369870753（新开，新鲜着呢，快加） 一群：163865401（已爆满，加不上了）  <br />
-<br /><br />
 
