@@ -10,7 +10,7 @@
 
 
 # CoreFMDB
-   MJExtension续作之一：取代Core Data的利器，实现ios一键ORM的基石！
+   【CoreModel】MJExtension续作之一：取代Core Data的利器，实现ios一键ORM的基石！
    
    One sequel for MJExtetnsion: a better tool to replace Core Data  
    and a cornerstone of achieving one key ORM for iOS.
