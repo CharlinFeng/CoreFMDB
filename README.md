@@ -21,6 +21,9 @@
 CoreModel系列： 请看！！！
 ===============
 
+#### 重磅推出：Swift版的MJExtension，运行时、反射与一键字典模型互转
+文档：https://github.com/nsdictionary/CFRuntime
+
 第一季：CoreFMDB
 https://github.com/nsdictionary/CoreFMDB
 
@@ -279,6 +282,5 @@ You don’t need to create datebase object, instance or record. It’s a green, 
 ![image](./CoreFMDB/4.png)<br />
  感谢小饭提供的英文翻译帮助，谢谢！
 <br /> <br />
-
 
 
