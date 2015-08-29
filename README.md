@@ -3,12 +3,11 @@
 ####  OC收山之作： CoreModel Series
 ##CoreFMDB
 <br/>
-.Xcode 5.0, iOS 6.0
-.OC,Swift
-.Under the MIT License
+.Xcode 5.0, iOS 6.0<br />
+.OC,Swift<br />
+.Under the MIT License<br />
 
-
-<br /><br /><br />
+<br /><br />
 
 SERIES
 ===============
