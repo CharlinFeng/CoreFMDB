@@ -42,12 +42,6 @@ it’s due to I got a magnificent frame in all my frameworks with a core purpose
 Because I believe that I will try my best to separate it if it’s a function module. 
 I feel I benefit from the core idea of decoupling. I hope you guys could understand. Thank you very much.
 
-This frame is the first one of the series frame which replace to Core Data. It’s also the sequel of
-MJ’s MJExtension and to MJ to pay tribute. This frame mostly finished the follow-up work of MJExtension:
-any model’s one key Cascade Dynamic Cache.
-
-
-
 <br /><br/>
 
 
