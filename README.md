@@ -1,70 +1,17 @@
-![image](./CoreFMDB/2.png)<br />
-
------
-    Charlin出框架的目标：简单、易用、实用、高度封装、绝对解耦！
-    
-    The purpose of Charlin’s frame: simple, ease of use, practical, 
-    highly packaged and absolute decoupling.
------
+![image](https://github.com/nsdictionary/Resource/blob/master/CoreFMDB/logo.jpg)<br />
 
 
 
-# CoreFMDB
-   【CoreModel】MJExtension续作之一：取代Core Data的利器，实现ios一键ORM的基石！
-   
+#  OC收山之作 CoreModel系列之一：CoreFMDB
+
    One sequel for MJExtetnsion: a better tool to replace Core Data  
    and a cornerstone of achieving one key ORM for iOS.
+   
 <br /><br /><br />
 
 
 
-CoreModel系列： 请看！！！
-===============
 
-#### 重磅推出：Swift版的MJExtension，运行时、反射与一键字典模型互转
-文档：https://github.com/nsdictionary/CFRuntime
-
-第一季：CoreFMDB
-https://github.com/nsdictionary/CoreFMDB
-
-第二季：CoreArchive
-https://github.com/nsdictionary/CoreArchive
-
-第三季：CoreClass
-https://github.com/nsdictionary/CoreClass
-
-第四季：CoreModel模型动态缓存、列表模型动态缓存<br />
-暂未开源！请加群归队，获取最新信息（群信息在下面）！请支持第三季！
-
-第五季：动态缓存list终结者。<br />
-暂未开源！请加群归队，获取最新信息（群信息在下面）！请支持第三季！
-
-
-本框架是隶属于MJExtension续作，我给这系列框架取了一个整体上的名字叫做：CoreModel。
-CoreArchive是系列第一季，共有5季，连载中，允加群关注最新动态！<br /><br />
-<br /><br />
-
-组织信息 Charlin Feng：
-===============
-<br />
-#### 特别群：请西部省市朋友实名加入组织。其他地区朋友请添加2-4群：谢谢。
-<br />
-【西部区域】西部大开发群号： 473185026  -追赶北上广！为振兴西部IT而努力！<br />
-热烈欢迎中国西部各省市的从事iOS开发朋友实名进群！本群为是聚集西部零散开发者，大家齐心协力共进退！ <br /><br />
-
-【全国可加】四群： 347446259<br />
-新开，可加！欢迎全国朋友加入组织 <br /><br />
-
-【全国可加】三群： 474377358<br />
-新开，可加！欢迎全国朋友加入组织 <br /><br />
-
-【全国可加】二群： 369870753<br />
-**WORNING: 已爆满，加不上了**<br /><br />
-
-【全国可加】一群：163865401<br />
-**WORNING: 已爆满，加不上了**<br /><br />
-
-<br /><br />
 
 
 
@@ -83,55 +30,43 @@ CoreArchive是系列第一季，共有5季，连载中，允加群关注最新�
 
 框架截图 IMAGES
 ===============
-![image](./CoreFMDB/new.png)<br />
+![image](https://github.com/nsdictionary/Resource/blob/master/CoreFMDB/1.png)<br />
 <br /><br />
 
 
-框架系列申明 SERIES
+SERIES
 ===============
 
-        不会写sql？别急！！！马上第二期为您解决一键全自动创表、一键CURD、
-        全自动检查模型动态添加字段、模型级联CURD，这一切都是全自动的，您不需要写一句Sql！
-        EN：Doesn’t know how to write sql? No worries. Now the second part offers you one key 
+
+        Doesn’t know how to write sql? No worries. Now the second part offers you one key 
         automatically create table, one key CURD, automatically check model and 
         dynamically add field, model cascade CURD. All these things are automatic without          
         one sql code.
         
         
         
-        由于本人时间有限，并且此系列框架使用简单，但有一套完整的理论，文档较多，开源周期较长。
-        EN：Due to my time constraints and ease of use these frames,
+        Due to my time constraints and ease of use these frames,
         the release cycle will be long.
         
         
         
-        第二期全自动CURD开源时间：2015年6月21日，请关注或加群（163865401）获取最新情报，谢谢
         EN：The second part  automatically CURD release date: 21/06/2015, so stay tuned or 
         join our qq group(163865401) to get the latest news, thanks a lot.
         
 <br/><br/>
-我是成都开发者，冯成林，开源是一种精神，一种分享，一种态度，或者是一种对传统模式的挑战，
-这里没有炫耀，没有装逼，没有金钱，我付出的是一种精神，需要的是您的支持！<br/>
 EN：I am Charlin Feng, a developer from Chengdu, China. The true spirit of open source is 
 an attitude and sharing even a challenge to the traditional way. There is no flaunt, 
 pretentious or money but all my spirits which need your support.
 <br/><br/><br />
-此系列框架的核心目标是：取代Core Data，实现一键动态缓存！
-这是第一个框架，后面还是3个，你要问我为什么写这么散？还有一些朋友批判我，很多项目结构非常“混乱”，
-其实，这是因为我有一个宏大的框架在我的所有Frameworks中，最核心的目的是解耦，
-因为我个人觉得，如果是功能模块，我会尽量独立出来，站在解耦的核心思想中，我受益太多。希望您能理解。谢谢！
-<br/>
-EN：The core purpose of these series frames is replace to Core Data and implement one key Dynamic Cache. 
+
+The core purpose of these series frames is replace to Core Data and implement one key Dynamic Cache. 
 This is the first frame with other three followed.  You are gonna ask me why make these frame so separately.
 Even some of my friends blame me at the “chaos” of my projects’ structure. Actually, 
 it’s due to I got a magnificent frame in all my frameworks with a core purpose which is decoupling.
 Because I believe that I will try my best to separate it if it’s a function module. 
 I feel I benefit from the core idea of decoupling. I hope you guys could understand. Thank you very much.
-<br/><br/><br />
-此框架是取代Core Data系列框架的第一个框架，是向MJ的MJExtension的续作以及致敬！
-主要是完成MJExtension的后续工作：任意模型的一键级联动态缓存。
-<br/>
-EN：This frame is the first one of the series frame which replace to Core Data. It’s also the sequel of
+
+This frame is the first one of the series frame which replace to Core Data. It’s also the sequel of
 MJ’s MJExtension and to MJ to pay tribute. This frame mostly finished the follow-up work of MJExtension:
 any model’s one key Cascade Dynamic Cache.
 
@@ -146,26 +81,24 @@ any model’s one key Cascade Dynamic Cache.
 
 
 
-框架依赖 DEPENDENCE
+DEPENDENCE
 ===============
 .FMDB<br />
 
 
 
-使用说明 USAGE
+USAGE
 ===============
-
-本框架基于FMDB，静态封装，全类方法调用，同时是线程安全的。而且您无需创建数据库对象实例并记录，绿色、简单、好用。<br/>
-EN：This frame is based on FMDB and it’s static package,  all classes method call, thread-safe at the same time. 
+This frame is based on FMDB and it’s static package,  all classes method call, thread-safe at the same time. 
 You don’t need to create datebase object, instance or record. It’s a green, simple and good frame.
 <br/><br/><br />
 
-#### 1. 引入头文件 Introduced header
+#### 1. Introduced header
       #import "CoreFMDB.h"
 <br/>
 
 
-#### 2. 执行更新语句的方法 the method of the update statement
+#### 2. the method of the update statement
         /**
          *  执行一个更新语句
          *
@@ -177,7 +110,7 @@ You don’t need to create datebase object, instance or record. It’s a green, 
 <br/>
 
 
-#### 3. 执行查询语句的方法 the method of search statement
+#### 3. the method of search statement
         /**
          *  执行一个查询语句
          *
@@ -188,7 +121,33 @@ You don’t need to create datebase object, instance or record. It’s a green, 
 <br/>
 
 
-#### 4. 获取表的所有列 get all the rows of the table
+#### 5. Truncate your table
+
+    /**
+    *  清空表（但不清除表结构）
+    *
+    *  @param table 表名
+    *
+    *  @return 操作结果
+    */
+    +(BOOL)truncateTable:(NSString *)table;
+
+<br/>
+
+
+
+#### 5. get the recored count of table
+        /**
+         *  表记录数计算
+         *
+         *  @param table 表
+         *
+         *  @return 记录数
+         */
+        +(NSUInteger)countTable:(NSString *)table;
+<br/>
+
+#### 6. get all the rows of the table
         /**
          *  查询出指定表的列
          *
@@ -199,22 +158,11 @@ You don’t need to create datebase object, instance or record. It’s a green, 
         +(NSArray *)executeQueryColumnsInTable:(NSString *)table;
 
 <br/>
-
-#### 5. 获取表的记录数 get the recored count of table
-        /**
-         *  表记录数计算
-         *
-         *  @param table 表
-         *
-         *  @return 记录数
-         */
-        +(NSUInteger)countTable:(NSString *)table;
-<br/>
 <br/>
 
-具体使用示例 EXAMPLE
+EXAMPLE
 ===============
-    //创建表
+
         BOOL res =  [CoreFMDB executeUpdate:@"create table if not exists user(id integer primary key autoIncrement,name text not null default '',age integer not null default 0);"];
         
         if(res){
@@ -224,7 +172,7 @@ You don’t need to create datebase object, instance or record. It’s a green, 
         }
     
         
-        //添加数据
+
         BOOL res2= [CoreFMDB executeUpdate:@"insert into user (name,age) values('jack',27);"];
     
         if(res2){
@@ -234,12 +182,12 @@ You don’t need to create datebase object, instance or record. It’s a green, 
         }
     
         
-        //查询出表所有的列
+
         NSArray *columns = [CoreFMDB executeQueryColumnsInTable:@"user"];
         
         NSLog(@"列信息：%@",columns);
     
-        //查询数据
+
         [CoreFMDB executeQuery:@"select * from user;" queryResBlock:^(FMResultSet *set) {
             
             while ([set next]) {
@@ -250,37 +198,28 @@ You don’t need to create datebase object, instance or record. It’s a green, 
         
         
         
-        //计算记录数
         NSUInteger count = [CoreFMDB countTable:@"user"];
         
         NSLog(@"当前有%@条记录",@(count));
 
-
-
-<br />
------
-    MJExtension续作之一：取代Core Data的利器，实现ios一键ORM的基石！<br/>
-    One sequel for MJExtetnsion: a better tool to replace Core Data  
-    and a cornerstone of achieving one key ORM for iOS.
------
-
-<br /><br />
-
-
-
-致谢 THANKS
+<br/><br/><br/>
+Career
 ===============
-#####1.感谢MJ    Thanks MJ!
-![image](./CoreFMDB/3.png)<br />
-感谢杰哥！致敬MJExtension！希望大家支持杰哥的事业！ <br />
+#### Charlin's Career
 
-小码哥IT教育：http://www.520it.com
+WebSite：http://ios-android.cn <br/>
+Sina WeiBo：http://weibo.com/charlin2015/<br/>
+<br/><br/>
 
- <br /> <br />
-#####2.感谢小饭   Thanks XiaoFan!
+#### CoreModel Series
 
-![image](./CoreFMDB/4.png)<br />
- 感谢小饭提供的英文翻译帮助，谢谢！
-<br /> <br />
+One：CoreFMDB
+[https://github.com/nsdictionary/CoreFMDB](https://github.com/nsdictionary/CoreFMDB)
 
+Two：CoreArchive
+[https://github.com/nsdictionary/CoreArchive](https://github.com/nsdictionary/CoreArchive)
+
+Three：CoreClass
+[https://github.com/nsdictionary/CoreClass](https://github.com/nsdictionary/CoreClass)
+<br /><br />
 
