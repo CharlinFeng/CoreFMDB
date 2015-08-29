@@ -2,7 +2,7 @@
 
 
 
-####  OC收山之作 CoreModel系列之一
+####  OC收山之作 CoreModel Series
 ##CoreFMDB
 
    One sequel for MJExtetnsion: a better tool to replace Core Data  
@@ -14,22 +14,7 @@
 
 
 
-
-
-框架说明 EXPLAIN
-===============
-     Charlin Feng原创MJExtension续作的目的：一来是向MJExtension致敬，
-     二是封装大量ios开发者均迫切需要的功能，就是对数据的本地CURD。基于这个原因，
-     所以CoreArchive也成为了CoreModel的成员。当然CoreArchive也因为解耦的原因而独立存在。
-
-
-        正式开始！ Let's Go!
-
-
-
-
-
-框架截图 IMAGES
+IMAGES
 ===============
 ![image](https://github.com/nsdictionary/Resource/blob/master/CoreFMDB/1.png)<br />
 <br /><br />
