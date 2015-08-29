@@ -1,24 +1,14 @@
 ![image](https://github.com/nsdictionary/Resource/blob/master/CoreFMDB/logo.jpg)<br />
 
-
-
 ####  OC收山之作： CoreModel Series
 ##CoreFMDB
+<br/>
+.Xcode 5.0, iOS 6.0
+.OC,Swift
+.Under the MIT License
 
-   One sequel for MJExtetnsion: a better tool to replace Core Data  
-   and a cornerstone of achieving one key ORM for iOS.
-   
+
 <br /><br /><br />
-
-
-
-
-
-IMAGES
-===============
-![image](https://github.com/nsdictionary/Resource/blob/master/CoreFMDB/1.png)<br />
-<br /><br />
-
 
 SERIES
 ===============
