@@ -105,6 +105,8 @@ HMSingletonM(CoreFMDB)
         FMResultSet *set = [db executeQuery:sql];
         
         if(queryResBlock != nil) queryResBlock(set);
+        
+        NSLog(@"%@",[NSThread currentThread]);
     }];
 }
 
@@ -164,5 +166,22 @@ HMSingletonM(CoreFMDB)
     
     return count;
 }
+
+
+/**
+ *  清空表（但不清除表结构）
+ *
+ *  @param table 表名
+ *
+ *  @return 操作结果
+ */
++(BOOL)truncateTable:(NSString *)table{
+    
+    BOOL res = [self executeUpdate:[NSString stringWithFormat:@"DELETE FROM '%@'", table]];
+    [self executeUpdate:[NSString stringWithFormat:@"DELETE FROM sqlite_sequence WHERE name='%@';", table]];
+    return res;
+}
+
+
 
 @end

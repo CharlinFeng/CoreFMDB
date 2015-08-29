@@ -14,7 +14,6 @@
 HMSingletonH(CoreFMDB)
 
 
-
 /**
  *  执行一个更新语句
  *
@@ -25,8 +24,6 @@ HMSingletonH(CoreFMDB)
 +(BOOL)executeUpdate:(NSString *)sql;
 
 
-
-
 /**
  *  执行一个查询语句
  *
@@ -34,9 +31,6 @@ HMSingletonH(CoreFMDB)
  *  @param queryResBlock    查询语句的执行结果
  */
 +(void)executeQuery:(NSString *)sql queryResBlock:(void(^)(FMResultSet *set))queryResBlock;
-
-
-
 
 
 /**
@@ -49,8 +43,6 @@ HMSingletonH(CoreFMDB)
 +(NSArray *)executeQueryColumnsInTable:(NSString *)table;
 
 
-
-
 /**
  *  表记录数计算
  *
@@ -59,6 +51,16 @@ HMSingletonH(CoreFMDB)
  *  @return 记录数
  */
 +(NSUInteger)countTable:(NSString *)table;
+
+
+/**
+ *  清空表（但不清除表结构）
+ *
+ *  @param table 表名
+ *
+ *  @return 操作结果
+ */
++(BOOL)truncateTable:(NSString *)table;
 
 
 @end

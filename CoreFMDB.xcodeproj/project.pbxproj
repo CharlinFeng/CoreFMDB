@@ -7,10 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8913D99A1B2A762000C3B69A /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8913D9991B2A762000C3B69A /* 2.png */; };
-		8913D99E1B2A826700C3B69A /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 8913D99D1B2A826700C3B69A /* 3.png */; };
-		899852451B2AC18B00171DCE /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 899852441B2AC18B00171DCE /* 4.png */; };
-		89EAF4A11B317720000A4F6D /* new.png in Resources */ = {isa = PBXBuildFile; fileRef = 89EAF4A01B317720000A4F6D /* new.png */; };
 		EE5ABD681AC52C0F00D05234 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EE5ABD671AC52C0F00D05234 /* main.m */; };
 		EE5ABD6B1AC52C0F00D05234 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EE5ABD6A1AC52C0F00D05234 /* AppDelegate.m */; };
 		EE5ABD6E1AC52C0F00D05234 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EE5ABD6D1AC52C0F00D05234 /* ViewController.m */; };
@@ -39,10 +35,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8913D9991B2A762000C3B69A /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
-		8913D99D1B2A826700C3B69A /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
-		899852441B2AC18B00171DCE /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
-		89EAF4A01B317720000A4F6D /* new.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = new.png; sourceTree = "<group>"; };
 		EE5ABD621AC52C0F00D05234 /* CoreFMDB.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreFMDB.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE5ABD661AC52C0F00D05234 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EE5ABD671AC52C0F00D05234 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -131,10 +123,6 @@
 		EE5ABD651AC52C0F00D05234 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				89EAF4A01B317720000A4F6D /* new.png */,
-				899852441B2AC18B00171DCE /* 4.png */,
-				8913D9991B2A762000C3B69A /* 2.png */,
-				8913D99D1B2A826700C3B69A /* 3.png */,
 				EE5ABDA11AC52E2600D05234 /* libsqlite3.dylib */,
 				EE5ABD661AC52C0F00D05234 /* Info.plist */,
 				EE5ABD671AC52C0F00D05234 /* main.m */,
@@ -295,10 +283,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				EE5ABD711AC52C0F00D05234 /* Main.storyboard in Resources */,
-				89EAF4A11B317720000A4F6D /* new.png in Resources */,
-				899852451B2AC18B00171DCE /* 4.png in Resources */,
-				8913D99A1B2A762000C3B69A /* 2.png in Resources */,
-				8913D99E1B2A826700C3B69A /* 3.png in Resources */,
 				EE5ABD761AC52C0F00D05234 /* LaunchScreen.xib in Resources */,
 				EE5ABD731AC52C0F00D05234 /* Images.xcassets in Resources */,
 			);
