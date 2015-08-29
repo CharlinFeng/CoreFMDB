@@ -192,7 +192,7 @@ Three：CoreClass
 [https://github.com/nsdictionary/CoreClass](https://github.com/nsdictionary/CoreClass)
 
 <br /><br />
-#### QQ Info
+#### QQ Group Information
 QQ group 3： 474377358<br/>
 QQ group 4： 347446259<br/>
 QQ group for west of china： 473185026（true name）<br/>
