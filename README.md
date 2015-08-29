@@ -2,7 +2,7 @@
 
 
 
-####  OC收山之作 CoreModel Series
+####  OC收山之作： CoreModel Series
 ##CoreFMDB
 
    One sequel for MJExtetnsion: a better tool to replace Core Data  
