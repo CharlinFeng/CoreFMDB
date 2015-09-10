@@ -183,18 +183,13 @@ Sina WeiBo：http://weibo.com/charlin2015/<br/>
 #### CoreModel Series
 
 One：CoreFMDB
-[https://github.com/nsdictionary/CoreFMDB](https://github.com/nsdictionary/CoreFMDB)
+[https://github.com/nsdictionary/CoreFMDB](https://github.com/CharlinFeng/CoreFMDB)
 
 Two：CoreArchive
-[https://github.com/nsdictionary/CoreArchive](https://github.com/nsdictionary/CoreArchive)
+[https://github.com/nsdictionary/CoreArchive](https://github.com/CharlinFeng/CoreArchive)
 
-Three：CoreClass
-[https://github.com/nsdictionary/CoreClass](https://github.com/nsdictionary/CoreClass)
+Three：CoreModel
+[https://github.com/nsdictionary/CoreClass](https://github.com/CharlinFeng/CoreModel)
 
-<br /><br />
-#### QQ Group Information
-QQ group 3： 474377358<br/>
-QQ group 4： 347446259<br/>
-QQ group for west of china： 473185026（true name）<br/>
-QQ group for swift： 467237044<br/>
+
 
